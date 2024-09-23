@@ -6,7 +6,7 @@ Commands:
 
 npm i
 
-npm run
+npm start
 
 Check in browser:
 
